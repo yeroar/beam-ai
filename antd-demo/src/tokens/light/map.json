@@ -1,0 +1,342 @@
+{
+  "sizeXXL": {
+    "value": "$sizeUnit * ($sizeStep + 8)",
+    "type": "sizing"
+  },
+  "sizeXL": {
+    "value": "$sizeUnit * ($sizeStep + 4)",
+    "type": "sizing"
+  },
+  "sizeLG": {
+    "value": "$sizeUnit * ($sizeStep + 2)",
+    "type": "sizing"
+  },
+  "sizeMD": {
+    "value": "$sizeUnit * ($sizeStep + 1)",
+    "type": "sizing"
+  },
+  "sizeMS": {
+    "value": "$sizeUnit * $sizeStep",
+    "type": "sizing"
+  },
+  "size": {
+    "value": "$sizeUnit * $sizeStep",
+    "type": "sizing"
+  },
+  "sizeSM": {
+    "value": "$sizeUnit * ($sizeStep - 1)",
+    "type": "sizing"
+  },
+  "sizeXS": {
+    "value": "$sizeUnit * ($sizeStep - 2)",
+    "type": "sizing"
+  },
+  "sizeXXS": {
+    "value": "$sizeUnit * ($sizeStep - 3)",
+    "type": "sizing"
+  },
+  "controlHeightSM": {
+    "value": "$controlHeight * 0.75",
+    "type": "sizing"
+  },
+  "controlHeightXS": {
+    "value": "$controlHeight * 0.5",
+    "type": "sizing"
+  },
+  "controlHeightLG": {
+    "value": "$controlHeight * 1.25",
+    "type": "sizing"
+  },
+  "borderRadiusXS": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "borderRadiusSM": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "borderRadiusLG": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "borderRadiusOuter": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "colorText": {
+    "value": "rgba({colorTextBase}, 0.88)",
+    "type": "color"
+  },
+  "colorTextSecondary": {
+    "value": "rgba({colorTextBase}, 0.65)",
+    "type": "color"
+  },
+  "colorTextTertiary": {
+    "value": "rgba({colorTextBase}, 0.45)",
+    "type": "color"
+  },
+  "colorTextQuaternary": {
+    "value": "rgba({colorTextBase}, 0.25)",
+    "type": "color"
+  },
+  "colorFill": {
+    "value": "rgba({colorTextBase}, 0.15)",
+    "type": "color"
+  },
+  "colorFillSecondary": {
+    "value": "rgba({colorTextBase}, 0.06)",
+    "type": "color"
+  },
+  "colorFillTertiary": {
+    "value": "rgba({colorTextBase}, 0.04)",
+    "type": "color"
+  },
+  "colorBgContainer": {
+    "value": "{colorBgBase}",
+    "type": "color"
+  },
+  "colorFillQuaternary": {
+    "value": "rgba({colorTextBase}, 0.02)",
+    "type": "color"
+  },
+  "colorBgLayout": {
+    "value": "#f5f5f5",
+    "type": "color"
+  },
+  "colorBgElevated": {
+    "value": "{colorBgBase}",
+    "type": "color"
+  },
+  "colorBgSpotlight": {
+    "value": "rgba({colorTextBase}, 0.85)",
+    "type": "color"
+  },
+  "colorBorder": {
+    "value": "rgba({colorTextBase}, 0.15)",
+    "type": "color"
+  },
+  "colorBorderSecondary": {
+    "value": "rgba({colorTextBase}, 0.06)",
+    "type": "color"
+  },
+  "colorSplit": {
+    "value": "rgba({colorTextBase}, 0.06)",
+    "type": "color"
+  },
+  "colorPrimaryBg": {
+    "value": "{blue.1}",
+    "type": "color"
+  },
+  "colorPrimaryBgHover": {
+    "value": "{blue.2}",
+    "type": "color"
+  },
+  "colorPrimaryBorder": {
+    "value": "{blue.3}",
+    "type": "color"
+  },
+  "colorPrimaryBorderHover": {
+    "value": "{blue.4}",
+    "type": "color"
+  },
+  "colorPrimaryHover": {
+    "value": "{blue.5}",
+    "type": "color"
+  },
+  "colorPrimaryBase": {
+    "value": "{blue.6}",
+    "type": "color"
+  },
+  "colorPrimaryActive": {
+    "value": "{blue.7}",
+    "type": "color"
+  },
+  "colorPrimaryTextHover": {
+    "value": "{blue.8}",
+    "type": "color"
+  },
+  "colorPrimaryText": {
+    "value": "{blue.9}",
+    "type": "color"
+  },
+  "colorPrimaryTextActive": {
+    "value": "{blue.10}",
+    "type": "color"
+  },
+  "colorSuccessBg": {
+    "value": "{green.1}",
+    "type": "color"
+  },
+  "colorSuccessBgHover": {
+    "value": "{green.2}",
+    "type": "color"
+  },
+  "colorSuccessBorder": {
+    "value": "{green.3}",
+    "type": "color"
+  },
+  "colorSuccessBorderHover": {
+    "value": "{green.4}",
+    "type": "color"
+  },
+  "colorSuccessHover": {
+    "value": "{green.5}",
+    "type": "color"
+  },
+  "colorSuccessBase": {
+    "value": "{green.6}",
+    "type": "color"
+  },
+  "colorSuccessActive": {
+    "value": "{green.7}",
+    "type": "color"
+  },
+  "colorSuccessTextHover": {
+    "value": "{green.8}",
+    "type": "color"
+  },
+  "colorSuccessText": {
+    "value": "{green.9}",
+    "type": "color"
+  },
+  "colorSuccessTextActive": {
+    "value": "{green.10}",
+    "type": "color"
+  },
+  "colorWarningBg": {
+    "value": "{gold.1}",
+    "type": "color"
+  },
+  "colorWarningBgHover": {
+    "value": "{gold.2}",
+    "type": "color"
+  },
+  "colorWarningBorder": {
+    "value": "{gold.3}",
+    "type": "color"
+  },
+  "colorWarningBorderHover": {
+    "value": "{gold.4}",
+    "type": "color"
+  },
+  "colorWarningHover": {
+    "value": "{gold.5}",
+    "type": "color"
+  },
+  "colorWarningBase": {
+    "value": "{gold.6}",
+    "type": "color"
+  },
+  "colorWarningActive": {
+    "value": "{gold.7}",
+    "type": "color"
+  },
+  "colorWarningTextHover": {
+    "value": "{gold.8}",
+    "type": "color"
+  },
+  "colorWarningText": {
+    "value": "{gold.9}",
+    "type": "color"
+  },
+  "colorWarningTextActive": {
+    "value": "{gold.10}",
+    "type": "color"
+  },
+  "colorErrorBg": {
+    "value": "{red.1}",
+    "type": "color"
+  },
+  "colorErrorBgHover": {
+    "value": "{red.2}",
+    "type": "color"
+  },
+  "colorErrorBorder": {
+    "value": "{red.3}",
+    "type": "color"
+  },
+  "colorErrorBorderHover": {
+    "value": "{red.4}",
+    "type": "color"
+  },
+  "colorErrorHover": {
+    "value": "{red.4}",
+    "type": "color"
+  },
+  "colorErrorBase": {
+    "value": "{red.5}",
+    "type": "color"
+  },
+  "colorErrorActive": {
+    "value": "{red.7}",
+    "type": "color"
+  },
+  "colorErrorTextHover": {
+    "value": "{red.8}",
+    "type": "color"
+  },
+  "colorErrorText": {
+    "value": "{red.9}",
+    "type": "color"
+  },
+  "colorErrorTextActive": {
+    "value": "{red.10}",
+    "type": "color"
+  },
+  "colorInfoBg": {
+    "value": "{blue.1}",
+    "type": "color"
+  },
+  "colorInfoBgHover": {
+    "value": "{blue.2}",
+    "type": "color"
+  },
+  "colorInfoBorder": {
+    "value": "{blue.3}",
+    "type": "color"
+  },
+  "colorInfoBorderHover": {
+    "value": "{blue.4}",
+    "type": "color"
+  },
+  "colorInfoHover": {
+    "value": "{blue.5}",
+    "type": "color"
+  },
+  "colorInfoBase": {
+    "value": "{blue.6}",
+    "type": "color"
+  },
+  "colorInfoActive": {
+    "value": "{blue.7}",
+    "type": "color"
+  },
+  "colorInfoTextHover": {
+    "value": "{blue.8}",
+    "type": "color"
+  },
+  "colorInfoText": {
+    "value": "{blue.9}",
+    "type": "color"
+  },
+  "colorInfoTextActive": {
+    "value": "{blue.10}",
+    "type": "color"
+  },
+  "colorBgMask": {
+    "value": "rgba(0, 0, 0, 0.45)",
+    "type": "color"
+  },
+  "stepsDotSize": {
+    "value": "{controlHeight} / 4",
+    "type": "sizing"
+  },
+  "stepsCurrentDotSize": {
+    "value": "{controlHeightLG} / 4",
+    "type": "sizing"
+  },
+  "rateStarSize": {
+    "value": "{controlHeightLG} * 0.5",
+    "type": "sizing"
+  }
+}

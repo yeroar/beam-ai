@@ -1,0 +1,34 @@
+{
+  "colorTextBase": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "colorBgBase": {
+    "value": "#000",
+    "type": "color"
+  },
+  "colorTextLightSolid": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "colorPrimary": {
+    "value": "{colorPrimaryBase}",
+    "type": "color"
+  },
+  "colorError": {
+    "value": "{colorErrorBase}",
+    "type": "color"
+  },
+  "colorWarning": {
+    "value": "{colorWarningBase}",
+    "type": "color"
+  },
+  "colorSuccess": {
+    "value": "{colorSuccessBase}",
+    "type": "color"
+  },
+  "colorInfo": {
+    "value": "{colorInfoBase}",
+    "type": "color"
+  }
+}

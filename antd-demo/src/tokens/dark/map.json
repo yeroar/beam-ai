@@ -1,0 +1,266 @@
+{
+  "colorText": {
+    "value": "rgba({colorTextBase}, 0.95)",
+    "type": "color"
+  },
+  "colorTextSecondary": {
+    "value": "rgba({colorTextBase}, 0.75)",
+    "type": "color"
+  },
+  "colorTextTertiary": {
+    "value": "rgba({colorTextBase}, 0.55)",
+    "type": "color"
+  },
+  "colorTextQuaternary": {
+    "value": "rgba({colorTextBase}, 0.35)",
+    "type": "color"
+  },
+  "colorFill": {
+    "value": "rgba({colorTextBase}, 0.18)",
+    "type": "color"
+  },
+  "colorFillSecondary": {
+    "value": "rgba({colorTextBase}, 0.12)",
+    "type": "color"
+  },
+  "colorFillTertiary": {
+    "value": "rgba({colorTextBase}, 0.08)",
+    "type": "color"
+  },
+  "colorBgContainer": {
+    "value": "#ffffff0d",
+    "type": "color"
+  },
+  "colorFillQuaternary": {
+    "value": "rgba({colorTextBase}, 0.04)",
+    "type": "color"
+  },
+  "colorBgLayout": {
+    "value": "{colorBgBase}",
+    "type": "color"
+  },
+  "colorBgElevated": {
+    "value": "linear-gradient(180deg, #2b3351 0%, #1f253c 0%, #15192b 42.41%, #060712 100%)",
+    "type": "color"
+  },
+  "colorBgSpotlight": {
+    "value": "#424242",
+    "type": "color"
+  },
+  "colorBorder": {
+    "value": "#424242",
+    "type": "color"
+  },
+  "colorBorderSecondary": {
+    "value": "#303030",
+    "type": "color"
+  },
+  "colorSplit": {
+    "value": "rgba({colorTextBase}, 0.06)",
+    "type": "color"
+  },
+  "colorPrimaryBg": {
+    "value": "{blue.1}",
+    "type": "color"
+  },
+  "colorPrimaryBgHover": {
+    "value": "#ffffff1a",
+    "type": "color"
+  },
+  "colorPrimaryBorder": {
+    "value": "{blue.3}",
+    "type": "color"
+  },
+  "colorPrimaryBorderHover": {
+    "value": "{blue.4}",
+    "type": "color"
+  },
+  "colorPrimaryHover": {
+    "value": "{blue.7}",
+    "type": "color"
+  },
+  "colorPrimaryBase": {
+    "value": "linear-gradient(135deg, #08a1e2 0.01%, #8408ff 100%)",
+    "type": "color"
+  },
+  "colorPrimaryActive": {
+    "value": "{blue.5}",
+    "type": "color"
+  },
+  "colorPrimaryTextHover": {
+    "value": "{blue.8}",
+    "type": "color"
+  },
+  "colorPrimaryText": {
+    "value": "{blue.9}",
+    "type": "color"
+  },
+  "colorPrimaryTextActive": {
+    "value": "{blue.10}",
+    "type": "color"
+  },
+  "colorSuccessBg": {
+    "value": "{green.1}",
+    "type": "color"
+  },
+  "colorSuccessBgHover": {
+    "value": "{green.2}",
+    "type": "color"
+  },
+  "colorSuccessBorder": {
+    "value": "{green.3}",
+    "type": "color"
+  },
+  "colorSuccessBorderHover": {
+    "value": "{green.4}",
+    "type": "color"
+  },
+  "colorSuccessHover": {
+    "value": "{green.7}",
+    "type": "color"
+  },
+  "colorSuccessBase": {
+    "value": "{green.6}",
+    "type": "color"
+  },
+  "colorSuccessActive": {
+    "value": "{green.5}",
+    "type": "color"
+  },
+  "colorSuccessTextHover": {
+    "value": "{green.8}",
+    "type": "color"
+  },
+  "colorSuccessText": {
+    "value": "{green.9}",
+    "type": "color"
+  },
+  "colorSuccessTextActive": {
+    "value": "{green.10}",
+    "type": "color"
+  },
+  "colorWarningBg": {
+    "value": "{gold.1}",
+    "type": "color"
+  },
+  "colorWarningBgHover": {
+    "value": "{gold.2}",
+    "type": "color"
+  },
+  "colorWarningBorder": {
+    "value": "{gold.3}",
+    "type": "color"
+  },
+  "colorWarningBorderHover": {
+    "value": "{gold.4}",
+    "type": "color"
+  },
+  "colorWarningHover": {
+    "value": "{gold.7}",
+    "type": "color"
+  },
+  "colorWarningBase": {
+    "value": "{gold.6}",
+    "type": "color"
+  },
+  "colorWarningActive": {
+    "value": "{gold.5}",
+    "type": "color"
+  },
+  "colorWarningTextHover": {
+    "value": "{gold.8}",
+    "type": "color"
+  },
+  "colorWarningText": {
+    "value": "{gold.9}",
+    "type": "color"
+  },
+  "colorWarningTextActive": {
+    "value": "{gold.10}",
+    "type": "color"
+  },
+  "colorErrorBg": {
+    "value": "{red.1}",
+    "type": "color"
+  },
+  "colorErrorBgHover": {
+    "value": "{red.2}",
+    "type": "color"
+  },
+  "colorErrorBorder": {
+    "value": "{red.3}",
+    "type": "color"
+  },
+  "colorErrorBorderHover": {
+    "value": "{red.4}",
+    "type": "color"
+  },
+  "colorErrorHover": {
+    "value": "{red.8}",
+    "type": "color"
+  },
+  "colorErrorBase": {
+    "value": "{red.7}",
+    "type": "color"
+  },
+  "colorErrorActive": {
+    "value": "{red.4}",
+    "type": "color"
+  },
+  "colorErrorTextHover": {
+    "value": "{red.8}",
+    "type": "color"
+  },
+  "colorErrorText": {
+    "value": "{red.9}",
+    "type": "color"
+  },
+  "colorErrorTextActive": {
+    "value": "{red.10}",
+    "type": "color"
+  },
+  "colorInfoBg": {
+    "value": "{blue.1}",
+    "type": "color"
+  },
+  "colorInfoBgHover": {
+    "value": "{blue.2}",
+    "type": "color"
+  },
+  "colorInfoBorder": {
+    "value": "{blue.3}",
+    "type": "color"
+  },
+  "colorInfoBorderHover": {
+    "value": "{blue.4}",
+    "type": "color"
+  },
+  "colorInfoHover": {
+    "value": "{blue.7}",
+    "type": "color"
+  },
+  "colorInfoBase": {
+    "value": "{blue.6}",
+    "type": "color"
+  },
+  "colorInfoActive": {
+    "value": "{blue.5}",
+    "type": "color"
+  },
+  "colorInfoTextHover": {
+    "value": "{blue.8}",
+    "type": "color"
+  },
+  "colorInfoText": {
+    "value": "{blue.9}",
+    "type": "color"
+  },
+  "colorInfoTextActive": {
+    "value": "{blue.10}",
+    "type": "color"
+  },
+  "colorBgMask": {
+    "value": "rgba(0, 0, 0, 0.45)",
+    "type": "color"
+  }
+}

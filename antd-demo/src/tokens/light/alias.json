@@ -1,0 +1,677 @@
+{
+  "colorFillContent": {
+    "value": "{colorFillSecondary}",
+    "type": "color"
+  },
+  "colorFillContentHover": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "colorFillAlter": {
+    "value": "{colorFillQuaternary}",
+    "type": "color"
+  },
+  "colorBgContainerDisabled": {
+    "value": "{colorFillTertiary}",
+    "type": "color"
+  },
+  "colorBorderBg": {
+    "value": "{colorBgContainer}",
+    "type": "color"
+  },
+  "colorTextPlaceholder": {
+    "value": "{colorTextQuaternary}",
+    "type": "color"
+  },
+  "colorTextDisabled": {
+    "value": "{colorTextQuaternary}",
+    "type": "color"
+  },
+  "colorTextHeading": {
+    "value": "{colorText}",
+    "type": "color"
+  },
+  "colorTextLabel": {
+    "value": "{colorTextSecondary}",
+    "type": "color"
+  },
+  "colorTextDescription": {
+    "value": "{colorTextTertiary}",
+    "type": "color"
+  },
+  "colorBgTextHover": {
+    "value": "{colorFillSecondary}",
+    "type": "color"
+  },
+  "colorBgTextActive": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "colorIcon": {
+    "value": "{colorTextTertiary}",
+    "type": "color"
+  },
+  "colorIconHover": {
+    "value": "{colorText}",
+    "type": "color"
+  },
+  "colorLink": {
+    "value": "{colorPrimaryBase}",
+    "type": "color"
+  },
+  "colorLinkHover": {
+    "value": "{colorPrimaryHover}",
+    "type": "color"
+  },
+  "colorLinkActive": {
+    "value": "{colorPrimaryActive}",
+    "type": "color"
+  },
+  "colorHighlight": {
+    "value": "{colorErrorHover}",
+    "type": "color"
+  },
+  "controlOutline": {
+    "value": "{colorPrimaryBg}",
+    "type": "color"
+  },
+  "colorWarningOutline": {
+    "value": "{colorWarningBg}",
+    "type": "color"
+  },
+  "colorErrorOutline": {
+    "value": "{colorErrorBg}",
+    "type": "color"
+  },
+  "fontSizeSM": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "fontSizeLG": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "fontSizeXL": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "fontSizeIcon": {
+    "value": "12",
+    "type": "sizing"
+  },
+  "fontSizeHeading1": {
+    "value": "38",
+    "type": "fontSizes"
+  },
+  "fontSizeHeading2": {
+    "value": "24",
+    "type": "fontSizes"
+  },
+  "fontSizeHeading3": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "fontSizeHeading4": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "fontSizeHeading5": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "fontWeightNormal": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "fontWeightStrong": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "controlLineWidth": {
+    "value": "{lineWidth}",
+    "type": "borderWidth"
+  },
+  "controlOutlineWidth": {
+    "value": "{lineWidth} * 2",
+    "type": "borderWidth"
+  },
+  "controlItemBgHover": {
+    "value": "{colorFillTertiary}",
+    "type": "color"
+  },
+  "controlItemBgActive": {
+    "value": "{colorPrimaryBg}",
+    "type": "color"
+  },
+  "controlItemBgActiveHover": {
+    "value": "{colorPrimaryBgHover}",
+    "type": "color"
+  },
+  "controlInteractiveSize": {
+    "value": "{controlHeight} / 2",
+    "type": "sizing"
+  },
+  "controlItemBgActiveDisabled": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "controlTmpOutline": {
+    "value": "{colorFillQuaternary}",
+    "type": "color"
+  },
+  "opacityLoading": {
+    "value": "0.65",
+    "type": "opacity"
+  },
+  "padding": {
+    "value": "{size}",
+    "type": "spacing"
+  },
+  "paddingMD": {
+    "value": "{sizeMD}",
+    "type": "spacing"
+  },
+  "paddingSM": {
+    "value": "{sizeSM}",
+    "type": "spacing"
+  },
+  "paddingXS": {
+    "value": "{sizeXS}",
+    "type": "spacing"
+  },
+  "paddingXXS": {
+    "value": "{sizeXXS}",
+    "type": "spacing"
+  },
+  "paddingLG": {
+    "value": "{sizeLG}",
+    "type": "spacing",
+    "description": "LG size paddings, used in some large paddings components, such as Card, Modal and other components."
+  },
+  "paddingXL": {
+    "value": "{sizeXL}",
+    "type": "spacing"
+  },
+  "paddingXXL": {
+    "value": "{sizeXXL}",
+    "type": "spacing"
+  },
+  "margin": {
+    "value": "{size}",
+    "type": "spacing"
+  },
+  "marginSM": {
+    "value": "{sizeSM}",
+    "type": "spacing",
+    "description": "SM size margin, used in some small space between such horizontal spacing between contols group."
+  },
+  "marginXS": {
+    "value": "{sizeXS}",
+    "type": "spacing"
+  },
+  "marginXXS": {
+    "value": "{sizeXXS}",
+    "type": "spacing"
+  },
+  "marginLG": {
+    "value": "{sizeLG}",
+    "type": "spacing",
+    "description": "LG size margin, used in some large space between inside components, such as Card, Modal and other components."
+  },
+  "marginXL": {
+    "value": "{sizeXXL}",
+    "type": "spacing"
+  },
+  "controlPaddingHorizontal": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "controlPaddingHorizontalSM": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "Base": {
+    "Base Normal": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSize} + 8",
+        "fontSize": "{fontSize}"
+      },
+      "type": "typography"
+    },
+    "Base Strong": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSize} + 8",
+        "fontSize": "{fontSize}"
+      },
+      "type": "typography"
+    },
+    "Base Underline": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSize} + 8",
+        "fontSize": "{fontSize}",
+        "textDecoration": "underline"
+      },
+      "type": "typography"
+    },
+    "Base Delete": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSize} + 8",
+        "fontSize": "{fontSize}",
+        "textDecoration": "line-through"
+      },
+      "type": "typography"
+    },
+    "Base Italic": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightItalic}",
+        "lineHeight": "{fontSize} + 8",
+        "fontSize": "{fontSize}",
+        "textDecoration": ""
+      },
+      "type": "typography"
+    }
+  },
+  "SM": {
+    "SM Normal": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeSM} + 8",
+        "fontSize": "{fontSizeSM}"
+      },
+      "type": "typography"
+    },
+    "SM Strong": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeSM} + 8",
+        "fontSize": "{fontSizeSM}"
+      },
+      "type": "typography"
+    },
+    "SM Underline": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeSM} + 8",
+        "fontSize": "{fontSizeSM}",
+        "textDecoration": "underline"
+      },
+      "type": "typography"
+    },
+    "SM Delete": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeSM} + 8",
+        "fontSize": "{fontSizeSM}",
+        "textDecoration": "line-through"
+      },
+      "type": "typography"
+    },
+    "SM Italic": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightItalic}",
+        "lineHeight": "{fontSizeSM} + 8",
+        "fontSize": "{fontSizeSM}",
+        "textDecoration": "line-through"
+      },
+      "type": "typography"
+    }
+  },
+  "LG": {
+    "LG Normal": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeLG} + 8",
+        "fontSize": "{fontSizeLG}"
+      },
+      "type": "typography"
+    },
+    "LG Strong": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeLG} + 8",
+        "fontSize": "{fontSizeLG}"
+      },
+      "type": "typography"
+    },
+    "LG Underline": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeLG} + 8",
+        "fontSize": "{fontSizeLG}",
+        "textDecoration": "underline"
+      },
+      "type": "typography"
+    },
+    "LG Delete": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeLG} + 8",
+        "fontSize": "{fontSizeLG}",
+        "textDecoration": "line-through"
+      },
+      "type": "typography"
+    },
+    "LG Italic": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightItalic}",
+        "lineHeight": "{fontSizeLG} + 8",
+        "fontSize": "{fontSizeLG}"
+      },
+      "type": "typography"
+    }
+  },
+  "XL": {
+    "XL Normal": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeXL} + 8",
+        "fontSize": "{fontSizeXL}"
+      },
+      "type": "typography"
+    },
+    "XL Strong": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeXL} + 8",
+        "fontSize": "{fontSizeXL}"
+      },
+      "type": "typography"
+    },
+    "XL Underline": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeXL} + 8",
+        "fontSize": "{fontSizeXL}",
+        "textDecoration": "underline"
+      },
+      "type": "typography"
+    },
+    "XL Delete": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightNormal}",
+        "lineHeight": "{fontSizeXL} + 8",
+        "fontSize": "{fontSizeXL}",
+        "textDecoration": "line-through"
+      },
+      "type": "typography"
+    },
+    "XL Italic": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightItalic}",
+        "lineHeight": "{fontSizeXL} + 8",
+        "fontSize": "{fontSizeXL}"
+      },
+      "type": "typography"
+    }
+  },
+  "Heading": {
+    "Heading 1": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeHeading1} + 8",
+        "fontSize": "{fontSizeHeading1}"
+      },
+      "type": "typography"
+    },
+    "Heading 2": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeHeading2} + 8",
+        "fontSize": "{fontSizeHeading2}"
+      },
+      "type": "typography"
+    },
+    "Heading 3": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeHeading3} + 8",
+        "fontSize": "{fontSizeHeading3}"
+      },
+      "type": "typography"
+    },
+    "Heading 4": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeHeading4} + 8",
+        "fontSize": "{fontSizeHeading4}"
+      },
+      "type": "typography"
+    },
+    "Heading 5": {
+      "value": {
+        "fontFamily": "{fontFamily}",
+        "fontWeight": "{fontWeightStrong}",
+        "lineHeight": "{fontSizeHeading5} + 8",
+        "fontSize": "{fontSizeSM}"
+      },
+      "type": "typography"
+    }
+  },
+  "fontWeightItalic": {
+    "value": "Italic",
+    "type": "fontWeights"
+  },
+  "paddingContentHorizontalLG": {
+    "value": "{sizeLG}",
+    "type": "spacing"
+  },
+  "paddingContentVerticalLG": {
+    "value": "{sizeMS}",
+    "type": "spacing"
+  },
+  "paddingContentHorizontal": {
+    "value": "{sizeMS}",
+    "type": "spacing"
+  },
+  "paddingContentVertical": {
+    "value": "{sizeSM}",
+    "type": "spacing"
+  },
+  "paddingContentHorizontalSM": {
+    "value": "{size}",
+    "type": "spacing"
+  },
+  "paddingContentVerticalSM": {
+    "value": "{sizeXS}",
+    "type": "spacing"
+  },
+  "paddingContentVerticalXS": {
+    "value": "{sizeXXS}",
+    "type": "spacing"
+  },
+  "boxShadow": {
+    "value": [
+      {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.03)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "1",
+        "blur": "6",
+        "spread": "-1",
+        "color": "rgba(0,0,0,0.02)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.02)",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "boxShadowSecondary": {
+    "value": [
+      {
+        "x": "0",
+        "y": "6",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.08)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "3",
+        "blur": "6",
+        "spread": "-4",
+        "color": "rgba(0,0,0,0.12)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "9",
+        "blur": "28",
+        "spread": "8",
+        "color": "rgba(0,0,0,0.05)",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "boxShadowCard": {
+    "value": [
+      {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "-2",
+        "color": "rgba(0,0,0,0.16)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "3",
+        "blur": "6",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.12)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "5",
+        "blur": "12",
+        "spread": "4",
+        "color": "rgba(0,0,0,0.09)",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "colorItemText": {
+    "value": "rgba({colorTextLightSolid}, 0.65)",
+    "type": "color"
+  },
+  "colorItemTextDisabled": {
+    "value": "rgba({colorTextLightSolid}, 0.25)",
+    "type": "color"
+  },
+  "focusPrimary": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{colorPrimaryBg}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "focusError": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{colorErrorBg}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "focusWarning": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{colorWarningBg}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "tooltipBg": {
+    "value": "{colorText}",
+    "type": "color"
+  },
+  "segmentedBgColorSelected": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "segmentedGroupBg": {
+    "value": "{colorFillTertiary}",
+    "type": "color"
+  },
+  "colorMenuDarkBg": {
+    "value": "#001529",
+    "type": "color"
+  },
+  "colorMenuSubItemBg": {
+    "value": "#000c17",
+    "type": "color"
+  },
+  "boxShadowButtonSolid": {
+    "value": {
+      "x": "0",
+      "y": "{controlOutlineWidth}",
+      "blur": "0",
+      "spread": "0",
+      "color": "{controlTmpOutline}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "paddingTooltipContentVertical": {
+    "value": "({paddingSM} / 2)",
+    "type": "spacing"
+  },
+  "componentWidthLG": {
+    "value": "370",
+    "type": "sizing"
+  }
+}

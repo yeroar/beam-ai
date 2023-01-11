@@ -1,0 +1,126 @@
+{
+  "colorFillContent": {
+    "value": "{colorFillSecondary}",
+    "type": "color"
+  },
+  "colorFillContentHover": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "colorFillAlter": {
+    "value": "{colorFillQuaternary}",
+    "type": "color"
+  },
+  "colorBgContainerDisabled": {
+    "value": "{colorFillTertiary}",
+    "type": "color"
+  },
+  "colorBorderBg": {
+    "value": "{colorBgContainer}",
+    "type": "color"
+  },
+  "colorTextPlaceholder": {
+    "value": "{colorTextQuaternary}",
+    "type": "color"
+  },
+  "colorTextDisabled": {
+    "value": "{colorTextQuaternary}",
+    "type": "color"
+  },
+  "colorTextHeading": {
+    "value": "{colorText}",
+    "type": "color"
+  },
+  "colorTextLabel": {
+    "value": "{colorTextSecondary}",
+    "type": "color"
+  },
+  "colorTextDescription": {
+    "value": "{colorTextTertiary}",
+    "type": "color"
+  },
+  "colorBgTextHover": {
+    "value": "{colorFillSecondary}",
+    "type": "color"
+  },
+  "colorBgTextActive": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "colorIcon": {
+    "value": "{colorTextBase}",
+    "type": "color"
+  },
+  "colorIconHover": {
+    "value": "{colorText}",
+    "type": "color"
+  },
+  "colorLink": {
+    "value": "{colorPrimaryBase}",
+    "type": "color"
+  },
+  "colorLinkHover": {
+    "value": "{colorPrimaryHover}",
+    "type": "color"
+  },
+  "colorLinkActive": {
+    "value": "{colorPrimaryActive}",
+    "type": "color"
+  },
+  "colorHighlight": {
+    "value": "{colorErrorHover}",
+    "type": "color"
+  },
+  "controlOutline": {
+    "value": "{colorPrimaryBg}",
+    "type": "color"
+  },
+  "colorWarningOutline": {
+    "value": "{colorWarningBg}",
+    "type": "color"
+  },
+  "colorErrorOutline": {
+    "value": "{colorErrorBg}",
+    "type": "color"
+  },
+  "controlItemBgHover": {
+    "value": "{colorFillTertiary}",
+    "type": "color"
+  },
+  "controlItemBgActive": {
+    "value": "{colorPrimaryBg}",
+    "type": "color"
+  },
+  "controlItemBgActiveHover": {
+    "value": "{colorPrimaryBgHover}",
+    "type": "color"
+  },
+  "controlItemBgActiveDisabled": {
+    "value": "{colorFill}",
+    "type": "color"
+  },
+  "controlTmpOutline": {
+    "value": "{colorFillQuaternary}",
+    "type": "color"
+  },
+  "colorItemText": {
+    "value": "rgba({colorTextLightSolid}, 0.65)",
+    "type": "color"
+  },
+  "colorItemTextDisabled": {
+    "value": "rgba({colorTextLightSolid}, 0.25)",
+    "type": "color"
+  },
+  "tooltipBg": {
+    "value": "#424242",
+    "type": "color"
+  },
+  "segmentedBgColorSelected": {
+    "value": "#1f1f1f",
+    "type": "color"
+  },
+  "segmentedGroupBg": {
+    "value": "#000000",
+    "type": "color"
+  }
+}

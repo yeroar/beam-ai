@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "light/colors",
+    "light/seed",
+    "light/map",
+    "light/alias",
+    "dark/colors",
+    "dark/seed",
+    "dark/map",
+    "dark/alias"
+  ]
+}

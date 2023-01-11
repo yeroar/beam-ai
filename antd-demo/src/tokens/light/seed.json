@@ -1,0 +1,71 @@
+{
+  "colorTextBase": {
+    "value": "#000",
+    "type": "color"
+  },
+  "colorTextLightSolid": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "colorBgBase": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "fontFamily": {
+    "value": "Satoshi",
+    "type": "fontFamilies",
+    "description": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n"
+  },
+  "fontSize": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "lineWidth": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "borderRadius": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "sizeUnit": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "sizePopupArrow": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "controlHeight": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "opacityImage": {
+    "value": "1",
+    "type": "opacity"
+  },
+  "sizeStep": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "colorPrimary": {
+    "value": "{colorPrimaryBase}",
+    "type": "color"
+  },
+  "colorError": {
+    "value": "{colorErrorBase}",
+    "type": "color"
+  },
+  "colorWarning": {
+    "value": "{colorWarningBase}",
+    "type": "color"
+  },
+  "colorSuccess": {
+    "value": "{colorSuccessBase}",
+    "type": "color"
+  },
+  "colorInfo": {
+    "value": "{colorInfoBase}",
+    "type": "color"
+  }
+}
